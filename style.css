@@ -1,7 +1,7 @@
 body
 {
 	/* Background pattern from Toptal Subtle Patterns */
-	background-image: url("img/tlo.png");
+	background-image: url("tlo.png");
 	margin: 0px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
@@ -113,7 +113,7 @@ h1
 	width: 64px;
 	height: 64px;
 	text-decoration: none;
-	background: url(img/up.png) no-repeat 0px 0px;
+	background: url("up.png") no-repeat 0px 0px;
 	position: fixed;
 	right: 50px;
 	bottom: 50px;
